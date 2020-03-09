@@ -1,3 +1,5 @@
 # BubbleSort
 
-Slow process, good for small data.
+Practising:
+- Array
+- Input from the user (Scanner)
